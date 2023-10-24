@@ -10,7 +10,7 @@ Temas que aprendimos:
 
 **Entre otros comandos**
 
-##Algunos comandos en acción
+#Algunos comandos en acción
 ```
 git clone -- recursive https://github.com/danielsalina/SubmodulosExample
 
